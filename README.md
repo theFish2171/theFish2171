@@ -2,7 +2,7 @@
 - 👀 I’m interested in low level programming and math
 - 🌱 I’m currently learning Rust, Vue and C++
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me @thefish2171 on [twitter](x.com/theFish2171) and [instagram](instagram.com/thefish2171/)
+- 📫 How to reach me @thefish2171 on [twitter](https://x.com/theFish2171) and [instagram](https://instagram.com/thefish2171/)
 - ⚡ Fun fact: No fun facts for you
 
 ![thefish2171's Stats](https://github-readme-stats.vercel.app/api?username=thefish2171&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
